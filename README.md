@@ -3,7 +3,8 @@ You can compress your images with this script.
 
 ##Usage
 in Linux:
-```chmod u+x tinypngbot.php
+```
+chmod u+x tinypngbot.php
 ./tinypngbot.php (image or directory)
 ```
 
