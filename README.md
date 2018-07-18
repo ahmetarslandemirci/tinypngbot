@@ -1,7 +1,7 @@
 # tinypngbot
 You can compress your images with this script.
 
-##Usage
+## Usage
 in Linux:
 ```
 chmod u+x tinypngbot.php
